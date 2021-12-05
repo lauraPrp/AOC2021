@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Scanner;
 /*
 * part 1 rough version : AdventOfcode2021/src/sample/Day5.java
-* part 2 clean and inspired by https://github.com/topaz 
+* part 2 clean and inspired by u/clumsveed solution. 
 */
 public class AdventOfCode5 {
 	
